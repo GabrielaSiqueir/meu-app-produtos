@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f4f6f8;
+}
+
+a {
+  text-decoration: none;
+}
+
+.MuiAppBar-root {
+  background-color: #1976d2;
+}
+
+.MuiButton-root {
+  text-transform: none;
+}
